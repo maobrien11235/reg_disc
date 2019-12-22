@@ -9,4 +9,4 @@ I create a dataset of banks around $10BB in consolidated assets. I chose to incl
 
 ## References
 
-Lee, David S. and Lemieux, Thomas. 2010. "Regression Discontinuity Designs in Economics." *Journal of Economic Literature*, 48:281-355.
+Lee, David S. and Lemieux, Thomas. 2010. "Regression Discontinuity Designs in Economics." *Journal of Economic Literature*, 48:281-355. [Link](https://www.princeton.edu/~davidlee/wp/RDDEconomics.pdf)
