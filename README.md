@@ -6,3 +6,7 @@ This project is meant to explore causal effect modeling. I explore this topic by
 
 ## DataSet Design
 I create a dataset of banks around $10BB in consolidated assets. I chose to include banks between $8BB and $12BB, which resulted in a sample of 24 banks. The consolidated asset numbers for each bank is pulled from the [March 2019 report](https://www.federalreserve.gov/releases/lbr/current/) on bank size. I used publicly-reported Common Equity Tier 1 ratios as a proxy for bank capitalization. I retrieved this data by manually searching through each of the 24 banks in the asset window above. 
+
+## References
+
+Lee, David S. and Lemieux, Thomas. 2010. "Regression Discontinuity Designs in Economics." *Journal of Economic Literature*, 48:281-355.
